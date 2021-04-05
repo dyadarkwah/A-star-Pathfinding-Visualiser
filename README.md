@@ -4,6 +4,6 @@ It allows you to pick your start and end location and view the process of findin
 
 ## Requirements
 
-Python 3.x
-Pygame
-m
+- Python 3.x
+- Pygame
+
